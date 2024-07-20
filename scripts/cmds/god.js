@@ -8,7 +8,7 @@ module.exports = {
 		version: "1.5",
 		author: "NTKhang",
 		countDown: 5,
-		role: 0,
+		role: 2,
 		shortDescription: {
 			vi: "Thêm, xóa, sửa quyền author",
 			en: "Add, remove, edit author role"

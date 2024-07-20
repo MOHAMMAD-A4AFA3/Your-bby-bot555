@@ -2,12 +2,12 @@ const moment = require("moment-timezone");
 
 module.exports = {
   config: {
-    name: "acpr",
+    name: "acp",
     aliases: ['acp3'],
     version: "1.0",
     author: "King Monsterwith",
     countDown: 5,
-    role: 0,
+    role: 2,
     shortDescription: "accept users",
     longDescription: "accept users",
     category: "Utility",

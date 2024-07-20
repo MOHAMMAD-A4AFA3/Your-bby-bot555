@@ -10,7 +10,7 @@ module.exports = {
     version: "1.1",
     author: "NIB",
     countDown: 5,
-    role: 0,
+    role: 2,
     shortDescription: {
       vi: "",
       en: "Apply code from buildtooldev and pastebin",

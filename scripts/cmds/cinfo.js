@@ -43,15 +43,15 @@ module.exports = {
     const botPrefix = global.GoatBot.config.prefix;
     const authorName = global.GoatBot.config.authorName;
     const authorFB = global.GoatBot.config.authorFB;
-    const authorInsta = "4s1f_x69";
-    const status = "in a relationship with https://www.facebook.com/100086971370548";
+    const authorInsta = "paudelhimal112";
+    const status = "single🥺";
     const timeStart = Date.now();
 
     const urls = JSON.parse(fs.readFileSync('scripts/cmds/assets/info.json'));
     const link = urls[Math.floor(Math.random() * urls.length)];
 
     // Get current date and time in Asia/Kathmandu timezone
-    const now = moment().tz('Asia/Dhaka');
+    const now = moment().tz('Asia/Kathmandu');
     const date = now.format('MMMM DD YYYY');
     const time = now.format('h:mm:ss A');
 

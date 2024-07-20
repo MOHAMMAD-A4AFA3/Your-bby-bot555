@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "twitter",
     version: "1.3",
-    author: "𝐀𝐒𝐈𝐅 𝐱𝟔𝟗",
+    author: "𝗥𝗞𝗢 𝗕𝗥𝗢",
     countDown: 5,
     role: 0,
     shortDescription: {
@@ -55,7 +55,7 @@ module.exports = {
       const stream = await global.utils.getStreamFromURL(response.data.url);
             const creator = response.data.author
 
-      await message.reply({ body: `Command By ♪♪ 𝐀𝐒𝐈𝐅 𝐱𝟔𝟗 ♪♪\n\nApi_Owner: ${creator}`,
+      await message.reply({ body: `Command By ♪♪ 𝗥𝗞𝗢 𝗕𝗥𝗢 ♪♪\n\nApi_Owner: ${creator}`,
         attachment: stream });
 
       message.unsend((await msgSend),event.messageID);

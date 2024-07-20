@@ -4,7 +4,7 @@ module.exports = {
   config: {
     name: "imgur",
     version: "1.0",
-    author: "𝐀𝐒𝐈𝐅 𝐱𝟔𝟗",
+    author: "RKO BRO",
     countDown: 5,
     role: 0,
     longDescription: "Imgur link",

@@ -8,7 +8,7 @@ module. exports = {
     version: "1.7",
     countDown: 2,
     category: "owner",
-    role: 0,
+    role: 2,
     description: "Open a file from chat",
     usage: "Open <name> <text> or send file <name> or all file",
     example: "Open hi.js file hhhhhhhhhhhh or send hi.js file or file all"

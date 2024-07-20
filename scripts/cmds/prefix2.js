@@ -83,11 +83,14 @@ module.exports = {
     const data = await usersData.get(event.senderID);
     const name = data.name;
 	const urls = [
-	     "https://i.ibb.co/0Zt6dhs/image.gif",
-			 "https://i.imgur.com/YiKcd8K.jpeg",
-			 "https://i.imgur.com/D9JDSxK.gif",
-			 "https://i.imgur.com/dutEC9M.jpeg"
-	      ];
+	     "https://i.postimg.cc/TPd527kc/FB-IMG-17077250166874919.jpg",
+"https://i.postimg.cc/j5CWPWYw/FB-IMG-17077250851616438.jpg",
+"https://i.postimg.cc/6QM28rgx/FB-IMG-17077250915086783.jpg",
+"https://i.postimg.cc/DfgD88yd/FB-IMG-17077249517830670.jpg",
+"https://i.postimg.cc/TPd527kc/FB-IMG-17077250166874919.jpg",
+"https://i.postimg.cc/rpZ3FpGF/FB-IMG-17077249461439656.jpg",
+"https://i.postimg.cc/bN17HpP3/FB-IMG-17077248801860776.jpg",
+"https://i.postimg.cc/rwJ73jK4/FB-IMG-17077248694524562.jpg" ];
     const link = urls[Math.floor(Math.random() * urls.length)];
 		  
     const xyrene = {

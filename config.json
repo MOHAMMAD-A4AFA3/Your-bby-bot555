@@ -34,21 +34,23 @@
     "enable": false,
     "ignoreCommand": []
   },
-  "authorName": "𝗥𝗞𝗢 𝗕𝗥𝗢",
-  "authorFB": "https://www.facebook.com/profile.php?id=100084573213860",
+  "authorName": "AHMED TARIF",
+  "authorFB": "https://m.me/ahmed.tarif.404",
   "vipUser": [
-    "100084573213860",
+    "61552422054139",
     ""
   ],
   "adminBot": [
-    "100084573213860"
+    "61552422054139",
+    "61574117474714",
+    "100087667955647"
   ],
   "GOD": [
-    "100084573213860",
+    "61552422054139",
     ""
   ],
   "DEV": [
-    "100084573213860"
+    "61552422054139"
     
   ],
   "whiteListMode": {
@@ -62,8 +64,8 @@
     "notes": "if you enable this feature, only the thread in the whiteListThreadIds list can use the bot",
     "how_it_work": "if you enable both whiteListMode and whiteListModeThread, the system will check if the user is in whiteListIds, then check if the thread is in whiteListThreadIds, if one of the conditions is true, the user can use the bot"
   },
-  "nickNameBot": "𝗖𝗛𝗘𝗡𝗚𝗔𝗥𝗜💝♻️👑",
-  "prefix": "/",
+  "nickNameBot": "YOUR VODRO BOT",
+  "prefix": "-",
   "database": {
     "type": "json",
     "uriMongodb": "",
